@@ -1,0 +1,3 @@
+Moduel es energía inteligente y modular que encaja con un clic. Monta exactamente las tomas que necesitas, exactamente donde las necesitas: adiós a las regletas abarrotadas, los cables escondidos y los enchufes vacíos. Cables y módulos se unen sin herramientas, para que empieces poco a poco y amplíes cuando quieras, hasta diez tomas desde un solo enchufe de pared y hasta diez metros. Añade el Smart Matter Control Module F1 para hacer tu sistema inteligente: controla todo lo que hay a continuación desde el teléfono, con la voz o con el botón integrado.
+
+Conecta el F1 a Homey via Matter over Wi-Fi para encender o apagar tu corriente desde cualquier lugar y obtener información sobre el consumo de potencia y energía en vivo.

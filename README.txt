@@ -1,0 +1,3 @@
+Moduel is smart, modular power that clicks together. Build exactly the outlets you need, exactly where you need them: no cluttered strips, hidden cables, or empty sockets. Cables and modules snap together without tools, so you can start small and expand anytime, up to ten outlets from one wall socket and as far as ten meters. Add the Smart Matter Control Module F1 to make your system smart: control everything downstream from your phone, by voice, or with the built-in button.
+
+Connect the F1 to Homey via Matter over Wi-Fi to switch your power on or off from anywhere and gain insight into live power and energy use.

@@ -1,0 +1,3 @@
+Moduel to inteligentna, modularna energia, która łączy się kliknięciem. Zbuduj dokładnie tyle gniazdek, ile potrzebujesz, dokładnie tam, gdzie ich potrzebujesz: bez przeładowanych listw, ukrytych kabli i pustych gniazd. Kable i moduły łączysz bez narzędzi, więc możesz zacząć od małego i rozbudowywać w dowolnym momencie, do dziesięciu gniazdek z jednego gniazdka ściennego i do dziesięciu metrów. Dodaj Smart Matter Control Module F1, by uczynić system inteligentnym: steruj wszystkim dalej w instalacji z telefonu, głosem lub wbudowanym przyciskiem.
+
+Połącz F1 z Homey via Matter over Wi-Fi, by włączać lub wyłączać zasilanie z dowolnego miejsca i mieć wgląd w bieżące zużycie mocy i energii.

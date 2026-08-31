@@ -1,0 +1,3 @@
+Moduel ist smarte, modulare Stromversorgung, die zusammenklickt. Bauen Sie genau die Steckdosen, die Sie brauchen, genau dort, wo Sie sie brauchen: keine überladenen Steckerleisten, versteckte Kabel oder leere Buchsen. Kabel und Module lassen sich ohne Werkzeug zusammenstecken, damit Sie klein starten und jederzeit erweitern können, bis zu zehn Steckdosen an einer Wanddose und bis zu zehn Meter weit. Mit dem Smart Matter Control Module F1 wird Ihr System smart: Steuern Sie alles Weiterführende per Telefon, per Sprache oder mit der eingebauten Taste.
+
+Verbinden Sie das F1 mit Homey via Matter over Wi-Fi, um Ihren Strom von überall ein- oder auszuschalten und Einblick in den aktuellen Strom- und Energieverbrauch zu erhalten.

@@ -1,0 +1,3 @@
+Moduel is slimme, modulaire stroom die in elkaar klikt. Bouw precies de stopcontacten die je nodig hebt, precies waar je ze nodig hebt: geen rommelige stekkerdozen, verborgen kabels of lege gaten. Kabels en modules klikken zonder gereedschap in elkaar, zodat je klein kunt beginnen en altijd kunt uitbreiden, tot tien stopcontacten vanaf één wandcontactdoos en tot tien meter ver. Voeg de Smart Matter Control Module F1 toe om je systeem slim te maken: bedien alles verderop via je telefoon, met je stem, of met de ingebouwde knop.
+
+Koppel de F1 aan Homey via Matter over Wi-Fi om je stroom overal aan of uit te zetten en inzicht te krijgen in live stroom- en energieverbruik.

@@ -1,0 +1,3 @@
+Moduel è alimentazione smart e modulare che si collega a scatto. Monta esattamente le prese che ti servono, esattamente dove ti servono: niente ciabatte ingombranti, cavi nascosti o prese vuote. Cavi e moduli si uniscono senza attrezzi, così puoi iniziare in piccolo e ampliare quando vuoi, fino a dieci prese da una sola presa a muro e fino a dieci metri. Aggiungi lo Smart Matter Control Module F1 per rendere il sistema intelligente: controlla tutto ciò che viene dopo dal telefono, con la voce o con il pulsante integrato.
+
+Collega l'F1 a Homey via Matter over Wi-Fi per accendere o spegnere l'alimentazione da qualsiasi luogo e tenere sotto controllo potenza e consumi in tempo reale.

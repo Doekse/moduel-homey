@@ -1,0 +1,46 @@
+{
+  "id": "com.moduel",
+  "version": "0.0.3",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "brandColor": "#FF33CC",
+  "runtime": "nodejs",
+  "platforms": [
+    "local"
+  ],
+  "platformLocalRequiredFeatures": [
+    "matter"
+  ],
+  "name": {
+    "en": "Moduel"
+  },
+  "description": {
+    "en": "Smart, modular power that clicks together"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Moduel AB",
+    "email": "abe.haverkamp+moduel@homey.app"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Abe Haverkamp (developer)"
+      }
+    ]
+  },
+  "source": "https://github.com/Doekse/moduel-homey",
+  "bugs": {
+    "url": "https://github.com/Doekse/moduel-homey/issues"
+  },
+  "support": "mailto:abe.haverkamp+moduel@homey.app",
+  "homeyCommunityTopicId": 158949
+}

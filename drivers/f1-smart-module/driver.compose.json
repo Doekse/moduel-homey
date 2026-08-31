@@ -1,0 +1,45 @@
+{
+  "name": {
+    "en": "F1 Smart Matter Control Module"
+  },
+  "class": "socket",
+  "capabilities": [
+    "onoff",
+    "measure_power",
+    "measure_voltage",
+    "measure_current",
+    "meter_power"
+  ],
+  "platforms": [
+    "local"
+  ],
+  "connectivity": [
+    "matter"
+  ],
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.png",
+    "large": "{{driverAssetsPath}}/images/large.png",
+    "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
+  },
+  "matter": {
+    "vendorId": 5136,
+    "productId": 1002,
+    "learnmode": {
+      "image": "{{driverAssetsPath}}/pairmode.svg",
+      "instruction": {
+        "en": "When plugging in the smart module for the first time, press and hold the on/off button for 3-5 seconds to enter Matter pairing mode. This is indicated by a blinking indicator LED.",
+        "nl": "Als je de smart module voor het eerst aansluit, houd dan de aan/uit-knop 3-5 seconden ingedrukt om de Matter-koppelingsmodus te starten. Dit wordt aangegeven door een knipperende indicator-LED.",
+        "de": "Wenn Sie das Smart Module zum ersten Mal einstecken, halten Sie die Ein-/Aus-Taste 3-5 Sekunden lang gedrückt, um den Matter-Pairing-Modus zu starten. Dies wird durch eine blinkende Indikator-LED angezeigt.",
+        "fr": "Lors de la première connexion du module intelligent, maintenez le bouton marche/arrêt enfoncé pendant 3 à 5 secondes pour entrer en mode d'appairage Matter. Ceci est indiqué par un voyant clignotant.",
+        "it": "Alla prima connessione del modulo smart, tieni premuto il pulsante on/off per 3-5 secondi per entrare in modalità di abbinamento Matter. Questo è indicato da un LED indicatore lampeggiante.",
+        "es": "Al enchufar el módulo inteligente por primera vez, mantén pulsado el botón de encendido/apagado durante 3-5 segundos para entrar en el modo de emparejamiento Matter. Esto se indica mediante un LED indicador parpadeante.",
+        "da": "Når du tilslutter smart-modulet første gang, skal du holde tænd/sluk-knappen inde i 3-5 sekunder for at starte Matter-parringstilstand. Dette indikeres af en blinkende indikator-LED.",
+        "no": "Når du kobler til smartmodulen for første gang, hold inne av/på-knappen i 3-5 sekunder for å starte Matter-parringsmodus. Dette indikeres av en blinkende indikator-LED.",
+        "sv": "När du ansluter smartmodulen första gången, håll inne på/av-knappen i 3-5 sekunder för att starta Matter-parningsläge. Detta indikeras av en blinkande indikator-LED.",
+        "pl": "Przy pierwszym podłączeniu smart-modułu przytrzymaj przycisk włączania/wyłączania przez 3-5 sekund, aby wejść w tryb parowania Matter. Jest to sygnalizowane migającą diodą LED.",
+        "ru": "При первом подключении смарт-модуля удерживайте кнопку включения/выключения 3-5 секунд, чтобы войти в режим сопряжения Matter. Об этом свидетельствует мигающий индикаторный светодиод.",
+        "ko": "스마트 모듈을 처음 연결할 때 전원 버튼을 3-5초간 길게 누르면 Matter 페어링 모드로 들어갑니다. 표시 LED가 깜빡이면 페어링 모드입니다."
+      }
+    }
+  }
+}

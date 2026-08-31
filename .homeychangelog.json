@@ -1,0 +1,11 @@
+{
+  "0.0.1": {
+    "en": "Initial test release"
+  },
+  "0.0.2": {
+    "en": "Updated app image and readme"
+  },
+  "0.0.3": {
+    "en": "Add Homey Community Forum topic ID"
+  }
+}

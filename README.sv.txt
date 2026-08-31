@@ -1,0 +1,3 @@
+Moduel är smart, modulär el som klickar ihop. Bygg precis de uttag du behöver, precis där du behöver dem: inga röriga grenuttag, gömda kablar eller tomma hål. Kablar och moduler klickas ihop utan verktyg, så du kan börja smått och bygga ut när som helst, upp till tio uttag från ett vägguttag och upp till tio meter. Lägg till Smart Matter Control Module F1 för att göra systemet smart: styr allt längre ut från telefonen, med rösten eller med den inbyggda knappen.
+
+Anslut F1 till Homey via Matter över Wi-Fi för att slå på eller av elen var du än är och få insikt i live effekt- och energiförbrukning.

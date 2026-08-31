@@ -1,0 +1,3 @@
+Moduel er smart, modulær strøm, der klikker sammen. Byg præcis de stikkontakter, du har brug for, præcis der, hvor du har brug for dem: ingen rodede grenudtag, skjulte kabler eller tomme huller. Kabler og moduler klikker sammen uden værktøj, så du kan starte småt og udvide når som helst, op til ti stikkontakter fra én vægkontakt og op til ti meter. Tilføj Smart Matter Control Module F1 for at gøre systemet smart: styr alt længere ude fra telefonen, med stemmen eller med den indbyggede knap.
+
+Forbind F1 til Homey via Matter over Wi-Fi for at tænde eller slukke for strømmen hvor som helst og få indsigt i live strøm- og energiforbrug.

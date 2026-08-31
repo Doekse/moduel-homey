@@ -1,0 +1,3 @@
+Moduel, c'est l'électricité intelligente et modulaire qui s'assemble d'un clic. Créez exactement les prises dont vous avez besoin, exactement là où vous en avez besoin: plus de multiprises encombrées, de câbles cachés ni de prises inutilisées. Câbles et modules s'emboîtent sans outils, pour commencer petit et agrandir à tout moment, jusqu'à dix prises sur une seule prise murale et jusqu'à dix mètres. Ajoutez le Smart Matter Control Module F1 pour rendre votre système intelligent: contrôlez tout ce qui se trouve en aval depuis votre téléphone, à la voix ou avec le bouton intégré.
+
+Reliez le F1 à Homey via Matter over Wi-Fi pour allumer ou éteindre votre alimentation où que vous soyez et suivre en direct la consommation électrique et énergétique.

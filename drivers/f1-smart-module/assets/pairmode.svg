@@ -1,0 +1,21 @@
+<svg width="960" height="960" viewBox="0 0 960 960" xmlns="http://www.w3.org/2000/svg">
+  <title>com.ikea/drivers/askvader/assets/pair</title>
+  <style>
+    @keyframes press{0%,60%,to{fill:transparent}10%,30%,50%{fill:#0078cc}}@keyframes flash{0%,44%,68%,76%,84%,92%,to{fill:transparent}50%,61%,72%,80%,88%,96%{fill:#0078cc}}
+  </style>
+  <g id="com.ikea/drivers/askvader/assets/pair" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path id="Rectangle" stroke="#000" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M78 295h872v369H78z"/>
+    <path d="M-10 439.927c20.736 0 30.298-5.927 88-5.927v93c-57.702 0-67.264-4.098-88-4.098s-20.736-82.975 0-82.975" stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Path-26" stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M498.106 295v369"/>
+    <circle id="Oval" stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" cx="738" cy="480" r="152"/>
+    <circle stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" cx="738" cy="480" r="133"/>
+    <circle fill="#0074cc" cx="287" cy="480" r="47" style="animation:press 10s infinite"/>
+    <circle stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" cx="287" cy="480" r="47"/>
+    <circle fill="#000" cx="779.5" cy="445.5" r="16.5"/>
+    <circle fill="#000" cx="695.5" cy="514.5" r="16.5"/>
+    <path d="m605 491 42.98 46.963-18.424 19.062q4.65 6.987 10.99 13.572a111.3 111.3 0 0 0 13.701 12.068l19.458-20.273 41.13 45.198" id="Path-27" stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m869.146 469.218-42.154-47.706 18.754-18.738q-4.527-7.069-10.751-13.762a111.3 111.3 0 0 0-13.488-12.305l-19.81 19.93-40.334-45.909" stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path fill="#0074cc" style="animation:flash 10s infinite" d="M419 469h22v22h-22z"/>
+    <path stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M419 469h22v22h-22z"/>
+  </g>
+</svg>
